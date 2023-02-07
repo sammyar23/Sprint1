@@ -1,0 +1,20 @@
+h1{color:black; font: 35px Lucida Console, monospace;}
+p[class="review"]{color:white; font: 18px Georgia , serif;background-color:grey;}
+p[class="info"]{color:white; font: 18px Georgia , serif;background-color:grey;}
+h5{color:FF0000;  font: 18px Georgia; }
+body{background-color:#ADD8E6}
+h4{color:white; font: 20px Impact, sans-serif;}}
+header{background-color:#87CEFA}
+a{color:white; font: 22px Impact, sans-serif;}}
+
+paragraph{color:black font: 14px}
+footer{background-color:#87CEFA}
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+aside{background-color:#87CEFA}
