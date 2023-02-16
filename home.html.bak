@@ -1,0 +1,133 @@
+<!doctype  html>
+<html lang = "eng>
+<head>
+	<title>Sprint 1 - HTML file"</title>
+</head>
+
+<body>
+	<link rel="stylesheet" href="css/styles.css">
+	<center>
+	<header>
+		<img src="Logo.png" alt="logo" width="420"eight="100">
+		<h1 >Sprint 1</h1>
+		<p> This is where our groupwork space is displayed </p> 
+		<nav>
+			<ul>
+			<a href="home.html">Home</a>
+			<a href="docker.html">Process of docker</a>
+			<a href="CodeConduct.html">Code of Conduct</a>
+			<ul>
+		</center>
+		</nav>
+	</header>
+	<body>
+	<center>
+	<p>our group had split tasks into smaller segments so<br> everyone has equal opportunity to complete each task.We also inlcuded an <br>inadiitonal html website with css functions.</p>
+	<h3 class="best">Subission contains</h3>
+	<p> -  Product Backlog<br> 
+		<br> 
+		- Code of Conduct<br> 
+		<br> 
+		- GitHub project (where the file  is located)<br> 
+		<br> 
+		- HTML & CSS with basic use if java script presented
+		<br> 
+		- demonstration of branching
+		</p>
+		
+		<br> 
+		<br> 
+	<h3 class="best">Our submission contains</h3>
+		<p>Screenshots for each step use of Docker extension is presented created by Sammy and Yonius</p>
+		<a href="backlog.pdf">Process of docker (commands processed with screenshots)</a>
+		<p>Screenshots for each step of Branching extension is presented created by Sammy </p>
+		<a href="branchpush.pdf">Process of Branching (commands processed with screenshots)</a>
+		<p> View our code of conduct created by yonius and nasir  </p>
+		<a href="Conduct.pdf">Code of Conduct.PDF</a>
+		<p> View our project Backlog created by mo  </p>
+		<a href="backlog.pdf">Project Backlog.PDF</a>
+	</center>
+	</body>
+	<aside>
+		<h4> </h4>
+		<ul>
+			<a href="docker.html">Process of docker</a>
+		<a href="CodeConduct.html">Code of Conduct</a>
+		<a href="backlog.html"> Project backlog</a>
+		</center>
+	</aside>
+	
+	<footer>
+		Website created 07/02/2023 
+	</footer>
+	
+ 
+</body>
+
+</html><!doctype  html>
+<html lang = "eng>
+<head>
+	<title>Sprint 1 - HTML file"</title>
+</head>
+
+<body>
+	<link rel="stylesheet" href="css/styles.css">
+	<center>
+	<header>
+		<img src="Logo.png" alt="logo" width="420"eight="100">
+		<h1 >Sprint 1</h1>
+		<p> This is where our groupwork space is displayed </p> 
+		<nav>
+			<ul>
+			<a href="home.html">Home</a>
+			<a href="home.html">Process of docker</a>
+			<a href="CodeConduct.html">Code of Conduct</a>
+			<ul>
+		</center>
+		</nav>
+	</header>
+	<body>
+	<center>
+	<p>our group had split tasks into smaller segments so<br> everyone has equal opportunity to complete each task.We also inlcuded an <br>inadiitonal html website with css functions.</p>
+	<h3 class="best">Subission contains</h3>
+	<p> -  Product Backlog<br> 
+		<br> 
+		- Code of Conduct<br> 
+		<br> 
+		- GitHub project (where the file  is located)<br> 
+		<br> 
+		- HTML & CSS with basic use if java script presented
+		<br> 
+		- demonstration of branching
+		</p>
+		
+		<br> 
+		<br> 
+	<h3 class="best">Our submission contains</h3>
+		<p>Screenshots for each step use of Docker extension is presented created by Sammy and Yonius</p>
+		<a href="home.html">Process of docker (commands processed with screenshots)</a>
+		<p>Screenshots for each step of Branching extension is presented created by Sammy </p>
+		<a href="home.html">Process of Branching (commands processed with screenshots)</a>
+		<p> View our code of conduct created by yonius and nasir  </p>
+		<a href="CodeConduct.html">Code of Conduct.PDF</a>
+		<p> View our project Backlog created by mo  </p>
+		<a href="CodeConduct.html">Project Backlog.PDF</a>
+	</center>
+	</body>
+	<aside>
+		<h4> </h4>
+		<ul>
+			<a href="home.html">Code of Conduct</a>
+			<a href="home.html">Product Log</a>
+		<ul>
+		</center>
+	</aside>
+	
+	<footer>
+		Website created 07/02/2023 
+	</footer>
+	
+ 
+</body>
+
+</html>
